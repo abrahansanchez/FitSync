@@ -4,7 +4,7 @@
 **Fitness Progress Tracking and Coaching Platform**
 
 ## Description:
-FitSync is a web and mobile application designed to help individuals track their fitness progress, similar to Lifesum, while also providing an integrated system for trainers to manage clients like EliteTrainr. The platform focuses on progress tracking, coach-client interaction, and gym discovery, solving real-world fitness industry challenges. The gym discovery feature is designed solely for potential clients looking for suitable gyms, without requiring gyms to be users of the app.
+FitSync is a web and mobile application designed to help individuals track their fitness progress, similar to Lifesum, while also providing an integrated system for trainers to manage clients like EliteTrainr. The platform focuses on progress tracking, coach-client interaction, and gym discovery. The gym discovery feature is designed solely for potential clients looking for suitable gyms, without requiring gyms to be users of the app.
 
 ## Technology Stack:
 - **Frontend**: React.js (Web), React Native (Mobile), Tailwind CSS
